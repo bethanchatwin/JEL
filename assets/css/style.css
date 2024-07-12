@@ -625,7 +625,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/christina.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -830,6 +830,10 @@ section {
 .why-us .box:hover h4,
 .why-us .box:hover p {
   color: #fff;
+}
+.reviews {
+  height: 250px;
+  width: 200px;
 }
 
 /*--------------------------------------------------------------
@@ -1625,4 +1629,7 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+.footer-h3 {
+  font-family: "28 Days Later", sans-serif;
 }
