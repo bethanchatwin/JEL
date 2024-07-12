@@ -17,12 +17,12 @@ body {
 }
 
 a {
-  color: #5c9f24;
+  color: #ff5e45;
   text-decoration: none;
 }
 
 a:hover {
-  color: #74c92d;
+  color: #ff5e45;
   text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5c9f24;
+  background: #ff5e45;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -59,7 +59,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #6fc02c;
+  background: #ff5e45;
   color: #fff;
 }
 
@@ -275,7 +275,7 @@ h6 {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: #5c9f24;
+  color: #ff5e45;
 }
 
 @media (max-width: 991px) {
@@ -863,7 +863,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #5c9f24;
+  background: #ff5e45;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1157,7 +1157,7 @@ section {
 }
 
 .pricing .box ul i {
-  color: #5c9f24;
+  color: #ff5e45;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1177,7 +1177,7 @@ section {
   padding: 10px 40px 12px 40px;
   border-radius: 4px;
   border: 2px solid #ff5e45;
-  color: #5c9f24;
+  color: #ff5e45;
   font-size: 14px;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
@@ -1186,12 +1186,12 @@ section {
 }
 
 .pricing .box .btn-buy:hover {
-  background: #5c9f24;
+  background: #ff5e45;
   color: #fff;
 }
 
 .pricing .recommended {
-  background: #5c9f24;
+  background: #ff5e45;
 }
 
 .pricing .recommended h3,
@@ -1254,7 +1254,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #9cdc66;
+  color: #ff5e45;
 }
 
 .faq .faq-list .icon-show,
@@ -1355,7 +1355,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #ff5e45;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1405,7 +1405,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #6ab82a;
+  background: #ff5e45;
 }
 
 @keyframes animate-loading {
